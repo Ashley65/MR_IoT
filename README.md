@@ -1,17 +1,17 @@
 # MR_IoT
-##Concept Overview
-Imagine entering a room where your Quest 3 immediately immerses you in a mixed reality environment that not only overlays virtual interfaces but also reflects the current state of your physical space.
+## Concept Overview
+Imagine entering a room where your Quest 3 immediately immerses you in a mixed-reality environment that not only overlays virtual interfaces but also reflects the current state of your physical space.
 - Centralized Data & Personalization:
 IoT sensors around your environment continuously feed data—temperature, ambient light, noise levels, occupancy, etc.—into a central hub (such as Azure IoT Hub). An AI module processes this data to learn your personal preferences over time.
 - Physical-Digital Interaction:
-At the same time, your hand-tracked gestures let you interact directly with virtual controls that mirror the physical devices in your space (smart lights, thermostats, speakers). These controls aren’t just pretty graphics; they’re fully functional command centers that directly issue commands to your IoT devices.
+At the same time, your hand-tracked gestures let you interact directly with virtual controls that mirror the physical devices in your space (smart lights, thermostats, speakers). These controls aren’t just pretty graphics; they’re fully functional command centres directly issuing commands to your IoT devices.
 
 
-##Key Integration Components
+## Key Integration Components
 - Data Ingestion & Centralization:- IoT Sensors & Actuators: Collect environmental data (e.g., light, temperature) and enable remote control (e.g., smart bulbs, thermostats).
 - IoT Gateway/Cloud Hub: Use a centralized platform (like Azure IoT Hub or an MQTT broker) to gather sensor data and manage device commands.
 
-- AI-Powered Personalization:- Data Analytics Module: Processes real-time data from your IoT sensors to determine patterns and your typical environmental preferences.
+AI-Powered Personalization: The data Analytics Module Processes real-time data from your IoT sensors to determine patterns and your typical environmental preferences.
 - Adaptive AI Algorithms: Adjust the MR experience on the fly. For example, if the system learns you prefer warmer lighting in the evenings, it can pre-adjust the digital overlays and send corresponding commands to your smart lights.
 
 - Mixed Reality Interface:- Hand Tracking on Quest 3: Provides natural gesture-based controls to interact with digital proxies of your IoT devices.
