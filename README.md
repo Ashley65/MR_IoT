@@ -21,7 +21,7 @@ AI-Powered Personalization: The data Analytics Module Processes real-time data f
 - Any adjustments are then captured by the sensors and fed back into the centralized system, refining the AI’s understanding of your preferences and improving future interactions.
 
 
-##Practical Use Case Example
+## Practical Use Case Example
 Scenario: A Smart Living Room
 - Before Your Arrival:
 IoT sensors detect that the room's ambient light is dim and the temperature is slightly lower than your preferred comfort level for the evening. Data flows into the central hub where the AI module compares current conditions with saved user preferences.
